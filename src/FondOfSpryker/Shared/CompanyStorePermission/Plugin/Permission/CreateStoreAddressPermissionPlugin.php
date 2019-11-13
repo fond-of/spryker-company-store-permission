@@ -8,7 +8,7 @@ use Spryker\Shared\PermissionExtension\Dependency\Plugin\PermissionPluginInterfa
 
 class CreateStoreAddressPermissionPlugin implements PermissionPluginInterface
 {
-    public const KEY = 'EditStoreAddressPermissionPlugin';
+    public const KEY = 'CreateStoreAddressPermissionPlugin';
 
     /**
      * @return string
